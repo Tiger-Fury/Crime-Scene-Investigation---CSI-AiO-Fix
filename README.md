@@ -88,3 +88,6 @@ Each executable must be used with its matching scripts.cxt file.
 This is a compatibility and fix patch, not a complete game distribution.
 
 Back up existing game files and saves before installing.
+
+# No Source code
+I did create this fix but most of the code belongs to the game so i will not be providing it
